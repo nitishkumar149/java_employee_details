@@ -5,6 +5,7 @@ public class Main{
     int salary=0;
     int bonous=0;
 int a=0;
+int c=0;
     void insert(){
         Scanner s=new Scanner(System.in);
         System.out.println("enter name :");
